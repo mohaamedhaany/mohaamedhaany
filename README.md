@@ -9,7 +9,22 @@
 
 ## About me
 
-Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+Hi there 👋. I’m mohamed hany, Current Role:
+
+.NET Developer: Proficient in developing applications using the .NET framework, with a solid understanding of C# and ASP.NET.
+Programming Languages:
+
+Java: Good knowledge, experienced in developing applications and understanding core concepts.
+C++: Advanced knowledge, proficient in object-oriented programming, data structures, and algorithms.
+JavaScript (JS): Advanced knowledge, skilled in both client-side and server-side scripting, with experience in various frameworks.
+PHP: Advanced knowledge, experienced in server-side scripting and developing web applications.
+Web Technologies:
+
+HTML: Very good knowledge, capable of creating well-structured and semantically correct web pages.
+CSS: Very good knowledge, proficient in styling web pages using modern CSS techniques and responsive design.
+JavaScript (JS): Very good knowledge, experienced in creating dynamic and interactive web pages.
+React: Very good knowledge, skilled in building user interfaces using React, with a solid understanding of component-based architecture.
+Redux: Very good knowledge, experienced in managing application state using Redux.
 
 ## Get in touch :coffee:
 
